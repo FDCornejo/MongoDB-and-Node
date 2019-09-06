@@ -46,6 +46,7 @@
     <Compile Include="BL\Director.cs" />
     <Compile Include="BL\President.cs" />
     <Compile Include="BL\Purchase.cs" />
+    <Compile Include="BL\Secretaria.cs" />
     <Compile Include="BL\VicePresident.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
